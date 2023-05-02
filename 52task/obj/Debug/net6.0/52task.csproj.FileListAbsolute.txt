@@ -1,0 +1,15 @@
+C:\Users\mehry\Desktop\DZ7\52task\bin\Debug\net6.0\52task.exe
+C:\Users\mehry\Desktop\DZ7\52task\bin\Debug\net6.0\52task.deps.json
+C:\Users\mehry\Desktop\DZ7\52task\bin\Debug\net6.0\52task.runtimeconfig.json
+C:\Users\mehry\Desktop\DZ7\52task\bin\Debug\net6.0\52task.dll
+C:\Users\mehry\Desktop\DZ7\52task\bin\Debug\net6.0\52task.pdb
+C:\Users\mehry\Desktop\DZ7\52task\obj\Debug\net6.0\52task.csproj.AssemblyReference.cache
+C:\Users\mehry\Desktop\DZ7\52task\obj\Debug\net6.0\52task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehry\Desktop\DZ7\52task\obj\Debug\net6.0\52task.AssemblyInfoInputs.cache
+C:\Users\mehry\Desktop\DZ7\52task\obj\Debug\net6.0\52task.AssemblyInfo.cs
+C:\Users\mehry\Desktop\DZ7\52task\obj\Debug\net6.0\52task.csproj.CoreCompileInputs.cache
+C:\Users\mehry\Desktop\DZ7\52task\obj\Debug\net6.0\52task.dll
+C:\Users\mehry\Desktop\DZ7\52task\obj\Debug\net6.0\refint\52task.dll
+C:\Users\mehry\Desktop\DZ7\52task\obj\Debug\net6.0\52task.pdb
+C:\Users\mehry\Desktop\DZ7\52task\obj\Debug\net6.0\52task.genruntimeconfig.cache
+C:\Users\mehry\Desktop\DZ7\52task\obj\Debug\net6.0\ref\52task.dll
