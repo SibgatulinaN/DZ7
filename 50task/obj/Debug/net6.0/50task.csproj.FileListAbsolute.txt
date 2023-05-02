@@ -1,0 +1,15 @@
+C:\Users\mehry\Desktop\DZ7\50task\obj\Debug\net6.0\50task.csproj.AssemblyReference.cache
+C:\Users\mehry\Desktop\DZ7\50task\obj\Debug\net6.0\50task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehry\Desktop\DZ7\50task\obj\Debug\net6.0\50task.AssemblyInfoInputs.cache
+C:\Users\mehry\Desktop\DZ7\50task\obj\Debug\net6.0\50task.AssemblyInfo.cs
+C:\Users\mehry\Desktop\DZ7\50task\obj\Debug\net6.0\50task.csproj.CoreCompileInputs.cache
+C:\Users\mehry\Desktop\DZ7\50task\bin\Debug\net6.0\50task.exe
+C:\Users\mehry\Desktop\DZ7\50task\bin\Debug\net6.0\50task.deps.json
+C:\Users\mehry\Desktop\DZ7\50task\bin\Debug\net6.0\50task.runtimeconfig.json
+C:\Users\mehry\Desktop\DZ7\50task\bin\Debug\net6.0\50task.dll
+C:\Users\mehry\Desktop\DZ7\50task\bin\Debug\net6.0\50task.pdb
+C:\Users\mehry\Desktop\DZ7\50task\obj\Debug\net6.0\50task.dll
+C:\Users\mehry\Desktop\DZ7\50task\obj\Debug\net6.0\refint\50task.dll
+C:\Users\mehry\Desktop\DZ7\50task\obj\Debug\net6.0\50task.pdb
+C:\Users\mehry\Desktop\DZ7\50task\obj\Debug\net6.0\50task.genruntimeconfig.cache
+C:\Users\mehry\Desktop\DZ7\50task\obj\Debug\net6.0\ref\50task.dll
